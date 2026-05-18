@@ -65,9 +65,9 @@ header h1{
   text-decoration:none;
 }
 .logo{
-  width:45px;
-  height:45px;
+  width:5px;
+  height:5px;
   border-radius:50%;
   object-fit:cover;
-  margin-bottom:10px;
+  margin-bottom:3px;
 }
