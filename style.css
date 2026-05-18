@@ -64,10 +64,4 @@ header h1{
   border-radius:12px;
   text-decoration:none;
 }
-.logo{
-  width:45px;
-  height:45px;
-  border-radius:50%;
-  object-fit:cover;
-  margin-bottom:10px;
-}
+
